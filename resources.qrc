@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/bully.jpg</file>
+    <file>images/bingus.png</file>
+  </qresource>
+  <qresource prefix="sound">
+    <file>sounds/loser.wav</file>
+    <file>sounds/intense.wav</file>
+    <file>sounds/win.wav</file>
+    <file>sounds/kahoot.wav</file>
+  </qresource>
+</RCC>
